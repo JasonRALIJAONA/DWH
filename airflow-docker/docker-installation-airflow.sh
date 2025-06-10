@@ -1,4 +1,4 @@
-curl -LfO 'https://airflow.apache.org/docs/apache-airflow/3.0.0/docker-compose.yaml'
+curl -LfO "https://airflow.apache.org/docs/apache-airflow/3.0.0/docker-compose.yaml"
 
 # Add the resource folder on volumes section in the YAML
 #  volumes:
